@@ -116,7 +116,7 @@ Deep-dive into lending performance: total loan value disbursed, loan count, brea
 
 Built by **[Tabish Afzal]** as a hands-on data analytics project to practice the real workflow of a Data Analyst: cleaning messy data, modeling it correctly, and turning it into a dashboard business teams can actually use.
 
-📧 [email](tabishafzal@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/tabish-afzal/) · 💼 [Portfolio](https://github.com/tabish022)
+· 🔗 [LinkedIn](https://www.linkedin.com/in/tabish-afzal/) · 💼 [Portfolio](https://github.com/tabish022)
 
 ---
 
