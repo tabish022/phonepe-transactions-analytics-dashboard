@@ -21,7 +21,7 @@ This is the kind of dashboard a Data Analyst would hand to a manager, a finance 
 ## 🖼️ Dashboard Preview
 
 <img width="1366" height="768" alt="Screenshot 2026-08-25 172912" src="https://github.com/user-attachments/assets/06136b5a-9a13-4aec-b648-7bf29540228a" />
-<img width="1366" height="768" alt="Screenshot 2026-08-25 172930" src="https://github.com/user-attachments/assets/fb63b04d-d1d1-4ef9-a504-21462be4215f" />
+<img width="1366" height="768" alt="Screenshot 2026-08-25 181528" src="https://github.com/user-attachments/assets/709e8a9c-5d95-4b61-baed-6cdc288dd4dd" />
 <img width="1366" height="768" alt="Screenshot 2026-08-25 172955" src="https://github.com/user-attachments/assets/b29dd3b0-6f0a-4af5-be08-26e7430e70de" />
 
 ---
@@ -106,7 +106,7 @@ Deep-dive into lending performance: total loan value disbursed, loan count, brea
 
 ## ▶️ How to View This Project
 
-1. **No Power BI installed?** Just watch the [screen recording](#) or view the screenshots above.
+1. **No Power BI installed?** Just view the screenshots above.
 2. **Have Power BI Desktop?** Download `phonepe_bi_project.pbix` and open it directly — it's fully interactive.
 3. **Want to explore the raw data?** Open `Phonepe-Final-Dataset.xlsx`.
 
@@ -114,9 +114,9 @@ Deep-dive into lending performance: total loan value disbursed, loan count, brea
 
 ## 🙋 About Me
 
-Built by **[Your Name]** as a hands-on data analytics project to practice the real workflow of a Data Analyst: cleaning messy data, modeling it correctly, and turning it into a dashboard business teams can actually use.
+Built by **[Tabish Afzal]** as a hands-on data analytics project to practice the real workflow of a Data Analyst: cleaning messy data, modeling it correctly, and turning it into a dashboard business teams can actually use.
 
-📧 [your email] · 🔗 [LinkedIn] · 💼 [Portfolio]
+📧 [email](tabishafzal@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/tabish-afzal/) · 💼 [Portfolio](https://github.com/tabish022)
 
 ---
 
